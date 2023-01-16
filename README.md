@@ -7,5 +7,5 @@ In this repository You can find several script written in Python 3.8.8 that help
 
 "complex_culture_random_parameter_combinations.py" - Script for a model where the values for each of the three parameters are selected randomly from uniform distributions with the following limits: ⍺ = {1, 1.6}, 𝜇i = {0, 0.1} and 𝜇l = {0, 1}.
 
-"
+Files ending with the names *"_effect_test" were written with the purpose to execute our sensitivity analysis designed to test the effects of the fixed parameters in our model on the developing cultural patterns. the beggining of each file's name indicates the name of the parameter tested: "numsyll" - number of syllable types available; "learnocc" - number of learning occasions for young birds; "popsize" - size of the population; "propdev" - proportion of different syllable types in the focal and non-focal populations;
 
