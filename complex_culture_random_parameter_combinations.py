@@ -12,7 +12,7 @@ os.chdir("C:\\Users\\xy\\OneDrive - elte.hu\\birdsong_model_conf_imm_lm\\immigra
 
 from random import random
 from random import sample, randint, choices, uniform
-from pandas as DataFrame, Series
+from pandas import DataFrame, Series
 import multiprocessing
 
 import time
