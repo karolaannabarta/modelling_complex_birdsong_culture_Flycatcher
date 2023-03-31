@@ -194,10 +194,10 @@ def song_learning(a, migr, lm):
 
 """ADJUSTABLE PARAMETERS"""
 alpha_start = 1
-alpha_end = 1.6
+alpha_end = 2
 
 migr_start = 0.0
-migr_end = 0.1
+migr_end = 0.4
 
 lm_start = 0.0
 lm_end = 1
